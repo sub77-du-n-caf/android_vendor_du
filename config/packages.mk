@@ -25,3 +25,7 @@ PRODUCT_PACKAGES += \
 # DU Utils Library
 PRODUCT_PACKAGES += \
     org.dirtyunicorns.utils
+
+# Superuser
+PRODUCT_PACKAGES += \
+    me.phh.superuser

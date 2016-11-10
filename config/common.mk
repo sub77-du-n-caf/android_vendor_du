@@ -85,10 +85,9 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/du/overlay/common
 PRODUCT_COPY_FILES += \
     vendor/du/prebuilt/common/media/bootanimation.zip:system/media/bootanimation.zip
 
-# SuperSU
+# Superuser
 PRODUCT_COPY_FILES += \
-    vendor/du/prebuilt/common/UPDATE-SuperSU.zip:system/addon.d/UPDATE-SuperSU.zip \
-    vendor/du/prebuilt/common/etc/init.d/99SuperSUDaemon:system/etc/init.d/99SuperSUDaemon
+    vendor/du/prebuilt/common/superuser.zip:system/addon.d/superuser.zip
 
 # Versioning System
 ANDROID_VERSION = 7.0
