@@ -31,3 +31,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     projekt.substratum \
     masquerade
+
+PRODUCT_PACKAGES += \
+    OpenDelta
