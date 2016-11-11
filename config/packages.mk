@@ -25,3 +25,13 @@ PRODUCT_PACKAGES += \
 # DU Utils Library
 PRODUCT_PACKAGES += \
     org.dirtyunicorns.utils
+
+# Superuser
+PRODUCT_PACKAGES += \
+    me.phh.superuser
+
+# Substratum
+# <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="master" />
+PRODUCT_PACKAGES += \
+    projekt.substratum \
+    masquerade
