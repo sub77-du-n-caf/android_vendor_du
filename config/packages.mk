@@ -26,11 +26,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     org.dirtyunicorns.utils
 
-# Substratum
-# <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="master" />
-PRODUCT_PACKAGES += \
-    projekt.substratum \
-    masquerade
-
 PRODUCT_PACKAGES += \
     OpenDelta
